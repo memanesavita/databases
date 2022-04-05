@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../hackthon2"
+		},
+		{
+			"path": "../knex.js"
+		},
+		{
+			"path": "."
+		}
+	]
+}
